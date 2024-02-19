@@ -1,2 +1,2 @@
 # notificationService
-simple implementation of message by using kafka
+simple implementation pub-sub model  by using kafka
